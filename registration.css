@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url(image.jpg);
+    background-size: 280%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.main{
+    width:400px;
+    margin-left: 450px;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.registration{
+    background-color: rgba(131, 120, 120, 0.473);
+    width: 100%;
+    font-size: 18px;
+    border:1px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgba(255, 255, 255, 0.329);
+    box-shadow:2px 2px 15px ;
+}
+#registration{
+    margin: 25px;
+}
+label{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 16px;
+}
+input#name{
+    width:330px;
+    border:1px;
+    border-style: solid;
+    border-color: rgba(40, 43, 41, 0.301);
+    border-radius: 3px;
+    padding: 6px;
+    outline: 0;
+    background-color: #fff;
+    box-shadow: inset;
+}
+input#age{
+    width:330px;
+    border:1px;
+    border-style: solid;
+    border-color: rgba(40, 43, 41, 0.301);
+    border-radius: 3px;
+    padding: 6px;
+    outline: 0;
+    background-color: #fff;
+}
+input#email{
+    width:330px;
+    border:1px;
+    border-style: solid;
+    border-color: rgba(40, 43, 41, 0.301);
+    border-radius: 3px;
+    padding: 6px;
+    outline: 0;
+    background-color: #fff;
+}
+input#Submit{
+    width: 100px;
+    padding: 3px;
+    font-family: sans-serif;
+    font-size:16px ;
+    font-weight: 500px;
+    border: 1px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.322);
+    border-radius: 3px;
+    background-color: #9e5656;
+    cursor: pointer;
+}
+label,span,h2{
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);
+}
