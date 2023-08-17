@@ -1,5 +1,5 @@
 # Registrationform
-I am Usin Html and CSS in this Project
+I am Using Html and CSS in this Project
 # Output
 
  
